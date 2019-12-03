@@ -1,0 +1,3 @@
+/home/ubuntu/software/Drive/flir/demo_opencv/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/software/Drive/flir/demo_opencv/build/CMakeFiles/flycapture_test.dir
+/home/ubuntu/software/Drive/flir/demo_opencv/build/CMakeFiles/edit_cache.dir
