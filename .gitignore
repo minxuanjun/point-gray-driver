@@ -2,3 +2,6 @@ flir-OpenCV-samples.zip
 flycapture2-2.13.3.31-amd64
 flir-OpenCV-samples
 pointgrey.txt
+demo_opencv/bin
+demo_opencv/build
+demo_opencv/.vscode
